@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//rafa-04102000.github.io/TodoPage/static/css/main.7cdf9dba.css",
-    "main.js": "/https//rafa-04102000.github.io/TodoPage/static/js/main.7a479f05.js",
-    "static/js/787.130afaa7.chunk.js": "/https//rafa-04102000.github.io/TodoPage/static/js/787.130afaa7.chunk.js",
-    "index.html": "/https//rafa-04102000.github.io/TodoPage/index.html",
-    "main.7cdf9dba.css.map": "/https//rafa-04102000.github.io/TodoPage/static/css/main.7cdf9dba.css.map",
-    "main.7a479f05.js.map": "/https//rafa-04102000.github.io/TodoPage/static/js/main.7a479f05.js.map",
-    "787.130afaa7.chunk.js.map": "/https//rafa-04102000.github.io/TodoPage/static/js/787.130afaa7.chunk.js.map"
+    "main.css": "/TodoPage/static/css/main.7cdf9dba.css",
+    "main.js": "/TodoPage/static/js/main.778c334a.js",
+    "static/js/787.130afaa7.chunk.js": "/TodoPage/static/js/787.130afaa7.chunk.js",
+    "index.html": "/TodoPage/index.html",
+    "main.7cdf9dba.css.map": "/TodoPage/static/css/main.7cdf9dba.css.map",
+    "main.778c334a.js.map": "/TodoPage/static/js/main.778c334a.js.map",
+    "787.130afaa7.chunk.js.map": "/TodoPage/static/js/787.130afaa7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cdf9dba.css",
-    "static/js/main.7a479f05.js"
+    "static/js/main.778c334a.js"
   ]
 }
